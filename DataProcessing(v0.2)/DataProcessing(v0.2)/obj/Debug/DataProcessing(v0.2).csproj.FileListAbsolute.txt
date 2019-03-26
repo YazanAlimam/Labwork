@@ -1,0 +1,6 @@
+C:\Users\laptopshop\Desktop\Data Processing\DataProcessing(v0.2)\DataProcessing(v0.2)\bin\Debug\DataProcessing(v0.2).exe.config
+C:\Users\laptopshop\Desktop\Data Processing\DataProcessing(v0.2)\DataProcessing(v0.2)\bin\Debug\DataProcessing(v0.2).exe
+C:\Users\laptopshop\Desktop\Data Processing\DataProcessing(v0.2)\DataProcessing(v0.2)\bin\Debug\DataProcessing(v0.2).pdb
+C:\Users\laptopshop\Desktop\Data Processing\DataProcessing(v0.2)\DataProcessing(v0.2)\obj\Debug\DataProcessing(v0.2).csprojResolveAssemblyReference.cache
+C:\Users\laptopshop\Desktop\Data Processing\DataProcessing(v0.2)\DataProcessing(v0.2)\obj\Debug\DataProcessing(v0.2).exe
+C:\Users\laptopshop\Desktop\Data Processing\DataProcessing(v0.2)\DataProcessing(v0.2)\obj\Debug\DataProcessing(v0.2).pdb

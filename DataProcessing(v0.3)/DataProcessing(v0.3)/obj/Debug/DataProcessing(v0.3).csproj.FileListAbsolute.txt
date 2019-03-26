@@ -1,0 +1,5 @@
+C:\Users\laptopshop\Desktop\Data Processing\DataProcessing(v0.3)\DataProcessing(v0.3)\bin\Debug\DataProcessing(v0.3).exe.config
+C:\Users\laptopshop\Desktop\Data Processing\DataProcessing(v0.3)\DataProcessing(v0.3)\bin\Debug\DataProcessing(v0.3).exe
+C:\Users\laptopshop\Desktop\Data Processing\DataProcessing(v0.3)\DataProcessing(v0.3)\bin\Debug\DataProcessing(v0.3).pdb
+C:\Users\laptopshop\Desktop\Data Processing\DataProcessing(v0.3)\DataProcessing(v0.3)\obj\Debug\DataProcessing(v0.3).exe
+C:\Users\laptopshop\Desktop\Data Processing\DataProcessing(v0.3)\DataProcessing(v0.3)\obj\Debug\DataProcessing(v0.3).pdb
